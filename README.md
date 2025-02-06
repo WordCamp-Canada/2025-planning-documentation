@@ -8,13 +8,13 @@ We've created some initial guidance for key aspects of running WordCamp Canada t
 ## Table of Contents
 Below are the key documents available in this repository:
 
-1. **[Activities Team](https://github.com/WordCamp-Canada/2025-key-documents/blob/main/activities/activities.md)** – Covers event-related activities such as after-parties, networking circles, and sponsor-hosted dinners.
-2. **[Attendee Experience Team](https://github.com/WordCamp-Canada/2025-key-documents/blob/main/attendee-experience/attendee-experience.md)** – Focuses on ensuring attendees have a smooth, welcoming, and engaging event experience.
-3. **[Communications Team](https://github.com/WordCamp-Canada/2025-key-documents/blob/main/comms/comms.md)** – Manages social media, website content, design, and media coverage for the event.
-4. **[Speaker Experience Team](https://github.com/WordCamp-Canada/2025-key-documents/blob/main/speaker-experience/speaker-experience.md)** – Handles speaker onboarding, content preparation, stage management, and engagement.
-5. **[Sponsorships Team](https://github.com/WordCamp-Canada/2025-key-documents/blob/main/sponsorships/sponsorships.md)** – Manages sponsor outreach, engagement, content, and on-site sponsor activations.
-6. **[Volunteers Team](https://github.com/WordCamp-Canada/2025-key-documents/blob/main/volunteers/volunteers.md)** – Oversees volunteer recruitment, training, scheduling, and on-site support.
-7. **[Operations Team](https://github.com/WordCamp-Canada/2025-key-documents/blob/main/operations/operations.md)** – Oversees core event activities like budget, venue, food and leads meetings.
+1. **[Activities Team](https://github.com/WordCamp-Canada/2025-planning-documentation/blob/main/activities/readme.md)** – Covers event-related activities such as after-parties, networking circles, and sponsor-hosted dinners.
+2. **[Attendee Experience Team](https://github.com/WordCamp-Canada/2025-planning-documentation/blob/main/attendee-experience/readme.md)** – Focuses on ensuring attendees have a smooth, welcoming, and engaging event experience.
+3. **[Communications Team](https://github.com/WordCamp-Canada/2025-planning-documentation/blob/main/comms/readme.md)** – Manages social media, website content, design, and media coverage for the event.
+4. **[Speaker Experience Team](https://github.com/WordCamp-Canada/2025-planning-documentation/blob/main/speaker-experience/readme.md)** – Handles speaker onboarding, content preparation, stage management, and engagement.
+5. **[Sponsorships Team](https://github.com/WordCamp-Canada/2025-planning-documentation/blob/main/sponsorships/readme.md)** – Manages sponsor outreach, engagement, content, and on-site sponsor activations.
+6. **[Volunteers Team](https://github.com/WordCamp-Canada/2025-planning-documentation/blob/main/volunteers/readme.md)** – Oversees volunteer recruitment, training, scheduling, and on-site support.
+7. **[Operations Team](https://github.com/WordCamp-Canada/2025-planning-documentation/blob/main/operations/readme.md)** – Oversees core event activities like budget, venue, food and leads meetings.
 
 ## How to Use This Repository
 - Each team should **review their respective document** and use it as a **starting point** for discussions, planning, and refinement.
