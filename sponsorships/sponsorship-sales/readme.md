@@ -54,4 +54,4 @@ Securing sponsors requires a strategic approach. Here’s how our team should ap
    - Provide sponsors with clear instructions on how to sign up and confirm their sponsorship level.
    - Offer flexible payment options and answer any logistical questions upfront.
 
-For any questions, contact **Dan Knauss** at **dan@newlocalmedia.com**.
+For any questions, contact **Dan Knauss** at **canada@wordcamp.org**.

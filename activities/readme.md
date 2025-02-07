@@ -13,6 +13,13 @@ The Activities Team is responsible for designing and executing all planned atten
 - Recruiting and coordinating volunteers dedicated to executing specific activities.
 - Collecting feedback and iterating for future events.
 
+## Areas of Focus
+
+1. **[After Party](https://github.com/WordCamp-Canada/2025-planning-documentation/blob/main/activities/after-party/readme.md)** – Plans and executes the official WCEH after-party, ensuring a fun and inclusive experience for all attendees.
+2. **[Circles](https://github.com/WordCamp-Canada/2025-planning-documentation/blob/main/activities/circles/readme.md)** – Organizes structured networking sessions led by sponsors, connecting attendees based on shared interests.
+3. **[Dinners](https://github.com/WordCamp-Canada/2025-planning-documentation/blob/main/activities/dinners/readme.md)** – Coordinates sponsor-hosted dinners that provide a more intimate networking experience for attendees.
+
+
 ## Early Questions
 
 - What are the goals of each activity? (e.g., networking, learning, entertainment)
