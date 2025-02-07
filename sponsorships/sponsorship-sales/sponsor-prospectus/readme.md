@@ -8,7 +8,7 @@ Sponsoring WCEH is an opportunity to engage deeply with the WordPress community,
 ## **WordCamps: A Brief History & Why They Matter**
 WordCamps have been a cornerstone of the WordPress community for nearly two decades. These events, held in cities across the globe, provide a collaborative space where developers, designers, marketers, and business owners come together to learn, share insights, and build connections. Unlike traditional tech conferences, WordCamps emphasize open-source values, accessibility, and grassroots community-building.
 
-What sets WCEH apart is its **national scale**—a rarity in the WordCamp ecosystem. Most WordCamps are regional or city-based, making WCEH one of only two national WordCamps in the world, alongside WordCamp Netherlands. This distinction positions WCEH as a high-profile event, drawing attendees from across the country and beyond.
+What sets WCEH apart is its **national scale**—a rarity in the WordCamp ecosystem. Most WordCamps are regional or city-based, making WCEH one of very few national WordCamps in the world. This distinction positions WCEH as a high-profile event, drawing attendees from across the country and beyond.
 
 ## **Why Non-WordPress Companies Should Get Involved**
 While WCEH is deeply rooted in the WordPress ecosystem, its audience extends beyond developers and website builders. **Marketers, content strategists, educators, and entrepreneurs** also attend, looking for new tools, services, and technologies to support their businesses. This opens the door for companies outside the WordPress space—including post-secondary institutions, SaaS companies, design agencies, and economic development organizations—to engage with a tech-savvy, business-oriented audience.
