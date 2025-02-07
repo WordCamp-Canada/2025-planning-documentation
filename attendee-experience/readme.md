@@ -1,6 +1,7 @@
 # Attendee Experience Team
 
 ## Overview
+
 The Attendee Experience Team is responsible for ensuring that every participant has a seamless, welcoming, and engaging experience at WCEH. This team focuses on all touchpoints of the attendee journey, from arrival to departure, ensuring accessibility, safety, and high-quality interactions.
 
 ## Key Responsibilities
