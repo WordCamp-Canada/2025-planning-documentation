@@ -11,12 +11,7 @@ WordCamps have been a cornerstone of the WordPress community for nearly two deca
 What sets WCEH apart is its **national scale**—a rarity in the WordCamp ecosystem. Most WordCamps are regional or city-based, making WCEH one of very few national WordCamps in the world. This distinction positions WCEH as a high-profile event, drawing attendees from across the country and beyond.
 
 ## **Why Non-WordPress Companies Should Get Involved**
-While WCEH is deeply rooted in the WordPress ecosystem, its audience extends beyond developers and website builders. **Marketers, content strategists, educators, and entrepreneurs** also attend, looking for new tools, services, and technologies to support their businesses. This opens the door for companies outside the WordPress space—including post-secondary institutions, SaaS companies, design agencies, and economic development organizations—to engage with a tech-savvy, business-oriented audience.
-
-Here’s why non-WordPress companies should consider sponsoring:
-- **University Engagement**: Carleton University, our venue, is a hub for emerging talent. A sponsorship presents an opportunity to connect with students, faculty, and innovators shaping the future of web technologies.
-- **Tech & SaaS Companies**: Companies like Adobe and Survey Monkey benefit from visibility among developers and agencies integrating their products into digital workflows.
-- **Government & Economic Development Organizations**: Agencies like Startup Ottawa can use WCEH as a platform to engage with small business owners, digital entrepreneurs, and freelancers driving innovation in Canada’s digital economy.
+While WCEH is deeply rooted in the WordPress ecosystem, its audience extends beyond developers and website builders. **Marketers, content strategists, educators, and entrepreneurs** also attend, looking for new tools, services, and technologies to support their businesses. This opens the door for companies outside the WordPress space to engage with a tech-savvy, business-oriented audience.
 
 ## **The WCEH Difference**
 Unlike regional WordCamps, our national scope attracts a broad audience of professionals, making this an unparalleled opportunity for sponsors seeking to reach WordPress users at scale. We offer:
